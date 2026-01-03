@@ -6,6 +6,7 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb
+!Project_Housing_Price_Prediction.ipynb
 
 # IDE
 .vscode/
