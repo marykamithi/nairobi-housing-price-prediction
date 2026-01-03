@@ -2,7 +2,7 @@
 
 A machine learning project to predict rental apartment prices in Nairobi using Linear Regression.
 
-## 📊 Project Overview
+## Project Overview
 
 This project builds a predictive model to estimate monthly rental prices for apartments in Nairobi based on:
 - **Location** (Neighborhood)
@@ -10,19 +10,19 @@ This project builds a predictive model to estimate monthly rental prices for apa
 
 **Target Users:** Homebuyers, Real Estate Agents, Property Developers
 
-## 🎯 Success Criteria
+## Success Criteria
 
 - **R² Score:** > 0.70
 - **Mean Absolute Error (MAE):** < KSh 15,000
 - **Accuracy:** 85% of predictions within ±10% of actual price
 
-## 📁 Dataset
+## Dataset
 
 - **Primary Data:** `rent_apts.csv` (~1,850 rental apartments)
 - **Features:** Agency, Neighborhood, Price, sq_mtrs, Bedrooms, Bathrooms, Link
 - **Source:** Nairobi rental market data
 
-## 🛠️ Technologies
+## Technologies
 
 - Python 3.10
 - pandas, numpy
@@ -30,7 +30,7 @@ This project builds a predictive model to estimate monthly rental prices for apa
 - scikit-learn
 - Jupyter Notebook
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -54,7 +54,7 @@ This project builds a predictive model to estimate monthly rental prices for apa
    jupyter notebook Project_Housing_Price_Prediction.ipynb
    ```
 
-## 📈 Project Structure
+## Project Structure
 
 ```
 ├── Project_Housing_Price_Prediction.ipynb  # Main analysis notebook
@@ -64,12 +64,12 @@ This project builds a predictive model to estimate monthly rental prices for apa
 └── README.md                               # Project documentation
 ```
 
-## 👤 Author
+## Author
 
 **Mary Kamithi**
 - GitHub: [@marykamithi](https://github.com/marykamithi)
 - Email: marykamithi3@gmail.com
 
-## 📝 License
+## License
 
 This project is open source and available for educational purposes.
